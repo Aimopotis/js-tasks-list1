@@ -11,12 +11,12 @@ $ cd js-tasks-list1
 ## Usage
 There are fuctions for: 
 
-* Adding the a task to the list with addTask()
-* Store the task to Local Storage with storeTaskInLocalStorage()
-* Get the tasks you have already saved in Local Storage as the document loads with getTasks()
-* Filter the tasks in you list with filterTasks()
-* Remove a task from list and Local Storage with removeTask() and removeTaskFromLocalStorage()
-* Clear the tasks list from list and Local Storage with clearTasks()
+* Adding the a task to the list with `addTask()`
+* Store the task to Local Storage with `storeTaskInLocalStorage()`
+* Get the tasks you have already saved in Local Storage as the document loads with `getTasks()`
+* Filter the tasks in you list with `filterTasks()`
+* Remove a task from list and Local Storage with `removeTask()` and `removeTaskFromLocalStorage()`
+* Clear the tasks list from list and Local Storage with `clearTasks()`
 
 ## Contributing
 All contributions all welcome
