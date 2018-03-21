@@ -3,7 +3,7 @@ Create a task, filter a task, clear your tasks and save all in local Storage. Th
 
 ## Installation
 Clone the Github repository by using 
-*[GIT](https://git-scm.com/downloads)
+* [GIT](https://git-scm.com/downloads)
 ```sh
 $ git clone https://github.com/Aimopotis/js-tasks-list1.git
 $ cd js-tasks-list1
