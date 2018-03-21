@@ -1,13 +1,14 @@
 # Task List APP using JS and materializecss 
 Create a task, filter a task, clear your tasks and save all in local Storage. There are comments for almost everything that will help you just pick the code you want and use it. Keep on sharing!!!!
 
-##Installation
-Clone the Github repository by using *[GIT]https://git-scm.com/downloads
+## Installation
+Clone the Github repository by using 
+*[GIT](https://git-scm.com/downloads)
 ```sh
 $ git clone https://github.com/Aimopotis/js-tasks-list1.git
 $ cd js-tasks-list1
 ```
-##Usage
+## Usage
 There are fuctions for: 
 
 * Adding the a task to the list with addTask()
@@ -17,7 +18,7 @@ There are fuctions for:
 * Remove a task from list and Local Storage with removeTask() and removeTaskFromLocalStorage()
 * Clear the tasks list from list and Local Storage with clearTasks()
 
-##Contributing
+## Contributing
 All contributions all welcome
 
 
