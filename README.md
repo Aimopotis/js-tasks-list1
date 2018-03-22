@@ -7,7 +7,7 @@ You can view the project online in:
 * [jsfiddle](https://jsfiddle.net/Morpheus_Studio/h62enq5m/3/)
 
 ![Codepen icon](img/codepen50.png)
-![jsfiddle icon](img/jsfiddle50.pgn)
+![jsfiddle icon](img/jsfiddle50.png)
 
 ## Installation
 Clone the Github repository by using 
