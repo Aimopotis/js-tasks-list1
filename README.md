@@ -1,6 +1,14 @@
 # Task List APP using JS and materializecss 
 Create a task, filter a task, clear your tasks and save all in local Storage. There are comments for almost everything that will help you just pick the code you want and use it. Keep on sharing!!!!
 
+## Online 
+You can view the project online in:
+* [Codepen](https://codepen.io/MorpheusStudio/pen/BrRxNa) 
+* [jsfiddle](https://jsfiddle.net/Morpheus_Studio/h62enq5m/3/)
+
+[Codepen icon](img/codepen150.png)
+[jsfiddle icon](img/jsfiddle150.pgn)
+
 ## Installation
 Clone the Github repository by using 
 * [GIT](https://git-scm.com/downloads)
