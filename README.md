@@ -2,12 +2,11 @@
 Create a task, filter a task, clear your tasks and save all in local Storage. There are comments for almost everything that will help you just pick the code you want and use it. Keep on sharing!!!!
 
 ## Online 
-You can view the project online in:
-* [Codepen](https://codepen.io/MorpheusStudio/pen/BrRxNa) 
-* [jsfiddle](https://jsfiddle.net/Morpheus_Studio/h62enq5m/3/)
+**Click** the icons to view the project online in:
 
-* [![Codepen icon](img/codepen50.png)](https://codepen.io/MorpheusStudio/pen/BrRxNa) 
-![jsfiddle icon](img/jsfiddle50.png)
+[![Codepen icon](img/codepen50.png)](https://codepen.io/MorpheusStudio/pen/BrRxNa) 
+and
+[![jsfiddle icon](img/jsfiddle50.png)](https://jsfiddle.net/Morpheus_Studio/h62enq5m/3/)
 
 ## Installation
 Clone the Github repository by using 
