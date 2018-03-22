@@ -6,7 +6,7 @@ You can view the project online in:
 * [Codepen](https://codepen.io/MorpheusStudio/pen/BrRxNa) 
 * [jsfiddle](https://jsfiddle.net/Morpheus_Studio/h62enq5m/3/)
 
-![Codepen icon](img/codepen50.png)
+* [![Codepen icon](img/codepen50.png)](https://codepen.io/MorpheusStudio/pen/BrRxNa) 
 ![jsfiddle icon](img/jsfiddle50.png)
 
 ## Installation
