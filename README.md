@@ -5,7 +5,7 @@ Create a task, filter a task, clear your tasks and save all in local Storage. Th
 **Click** the icons to view the project online in:
 
 [![Codepen icon](img/codepen50.png)](https://codepen.io/MorpheusStudio/pen/BrRxNa) 
-and
+ -or-
 [![jsfiddle icon](img/jsfiddle50.png)](https://jsfiddle.net/Morpheus_Studio/h62enq5m/3/)
 
 ## Installation
